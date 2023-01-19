@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rastaseva
-- 👀 I’m interested in backend
-- 🌱 I’m currently learning node.js, express, jest, postgresql  
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested equally in front- and backend
+- 🌱 I’m currently learning node.js, express, jest, postgresql, also impoving my React skills
+- 💞️ I’m looking to collaborate on anything I can find
 - 📫 How to reach me - email — rastaseva@gmail.com
 
 <!---
